@@ -85,9 +85,10 @@ author:
   bio              : "M. Sc. @TUM, Visiting MIT FutureTech lab"
   location         : "Munich, Germany"
   employer         :
+  email            : "sebastian.sartor97 [at] gmail.com"
+  linkedin         : "https://www.linkedin.com/in/sebastian-sartor/"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qrTsOTYAAAAJ&hl=en"
-  email            : "sebastian.sartor97 [at] gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Sebastian-Sartor-2/research"
   uri              :
   bitbucket        :
@@ -102,7 +103,6 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sebastian-sartor/"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
