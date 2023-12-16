@@ -71,7 +71,7 @@
 
   li {
     display: block;
-    float: center;
+    float: left;
     margin-left: -1px;
 
     a {
@@ -315,6 +315,7 @@
 
 .nav__list {
   font-size: 1.25rem;
+  text-align: center; /* Center-align the navigation links */
 
   ul {
     margin-bottom: 1em;
