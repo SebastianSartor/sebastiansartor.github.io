@@ -11,7 +11,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=qr
 
 Papers submitted for peer-review
 ======
-"DATA MESH - A CASE STUDY PERSPECTIVE ON BUILDING INDUSTRIAL DATA PLATFORMS"
+Kernstock, P., Biermann, K., **Sartor, S.**, Wimbauer, A., Bohnet, J., Hein, A. (2024). Data Mesh - A Case Study Perspective On Building Industrial Data Platforms. European Conference on Information Systems (ECIS)
 
 <!-- 
 {% include base_path %}
