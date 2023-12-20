@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+Pls check out my [LinkedIn](https://www.linkedin.com/in/sebastian-sartor/). I try to keep it up to date with the most important stations.
+
 <!-- {% include base_path %}
 
 Education
