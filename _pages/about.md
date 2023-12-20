@@ -17,7 +17,7 @@ This webpage is work in progress. For the time being, should there be anything y
 ## UPDATES
 
  
-🎓 **Jan. 2024**: I’m back in Cambridge, MA to work on my Master Thesis On Robotics and Scaling Laws at the MIT CSAIL FutureTech lab. I love it.
+🎓 **Jan. 2024**: I’m back in Cambridge, MA to work on my Master Thesis on Robotics and Scaling Laws at the MIT CSAIL FutureTech lab. I love it.
 
  
 
