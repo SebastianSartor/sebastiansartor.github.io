@@ -3,7 +3,7 @@ title: "DATA MESH - A CASE STUDY PERSPECTIVE ON
 BUILDING INDUSTRIAL DATA PLATFORMS"
 collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'In an era where data is the new currency, organizations are contending to harness vast data influxes
+#excerpt: 'In an era where data is the new currency, organizations are contending to harness vast data influxes
 for data-driven innovation. Centralized data architectures, with extensive data warehouses and lakes,
 are buckling under the pressure of contextually complex and distributed demands, leading to data
 bottlenecks and alignment issues within organizational structures. Data Mesh emerges as a
