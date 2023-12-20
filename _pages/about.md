@@ -17,7 +17,7 @@ This webpage is work in progress. For the time being, should there be anything y
 ## UPDATES
 
 <aside>
-🎓 Jan**. 2024**: I’m back in the US
+🎓 Jan**. 2024**: I’m back in Cambridge, MA to work on my Master Thesis at the MIT CSAIL FutureTech lab.
 
 </aside>
 

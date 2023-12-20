@@ -13,4 +13,7 @@ main:
     url: /cv/
 
   - title: "Contact"
-    url: /contacts/
+    url: /contact/
+
+  - title: "About"
+    url: /about/
