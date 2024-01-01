@@ -22,7 +22,7 @@ This webpage is work in progress. For the time being, should there be anything y
  
 
  
-🎓 **Nov. 2023**: New [paper on Data Mesh](https://www.notion.so/Data-Mesh-A-Case-Study-Perspective-on-Building-Industrialized-Data-Platforms-39e2b0d4dab94906bd85388128e312af?pvs=21) submitted for peer-review at ECIS 2024. If accepted, this will be my second peer-reviewed publication 😋
+🎓 **Nov. 2023**: New paper on Data Mesh submitted for peer-review at ECIS 2024. If accepted, this will be my second peer-reviewed publication 😋
 
  
 
@@ -47,7 +47,7 @@ This webpage is work in progress. For the time being, should there be anything y
  
 
  
-🌎 **Sep. 2023**: I launched the [Study abroad Scholarships data base](https://www.notion.so/Study-Abroad-Scholarships-da14aa2510224585b1d5e35c53a81079?pvs=21). Financial restrictions shouldn´t limit abroad education.
+🌎 **Sep. 2023**: I launched the Study abroad Scholarships data base. Financial restrictions shouldn´t limit abroad education.
 
  
 
@@ -57,5 +57,4 @@ This webpage is work in progress. For the time being, should there be anything y
  
 
 
-🌎 **Sep. 2023**: I launched the [Study abroad as a Freemover data base](https://www.notion.so/Study-Abroad-Scholarships-da14aa2510224585b1d5e35c53a81079?pvs=21). Students should follow their dreams!
-
+🌎 **Sep. 2023**: I launched the Study abroad as a Freemover data base. Students should follow their dreams!
