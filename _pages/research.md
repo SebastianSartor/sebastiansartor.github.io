@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic Publications"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 
@@ -15,7 +15,7 @@ Kernstock, P., Biermann, K., **Sartor, S.**, Wimbauer, A., Bohnet, J., Hein, A. 
 
 Gray Literature Books
 ======
-Kowalski et al. (2022). Behind the Hype: What Makes Startups Succeed or Fail, a Student Survey of Patterns. Accessible on [Amazon](https://www.amazon.com/dp/B0BQFVB9ZR/ref=tsm_1_fb_lk)
+Kowalski et al. (2022). Behind the Hype: What Makes Startups Succeed or Fail, a Student Survey of Patterns. Accessible on [Amazon](https://www.amazon.com/dp/B0BQFVB9ZR/ref=tsm_1_fb_lk) (each year, we donate the generated sales income of this book to an NGO!)
 
 
 <!-- 
