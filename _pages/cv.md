@@ -7,28 +7,24 @@ redirect_from:
   - /resume
 ---
 
-Pls check out my [LinkedIn](https://www.linkedin.com/in/sebastian-sartor/). I try to keep it up to date with the most important stations.
+Further details coming soon. In the meantime, pls check out my [LinkedIn](https://www.linkedin.com/in/sebastian-sartor/).
 
-<!-- {% include base_path %}
+ {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering & Business, University of Bayreuth, Germany, 2021
+* M.S. in Management & Technology, Technical University of Munich, Germany, 2024
+  * Semester abroad at UC Berkeley, US, 2022
+  * Research stay abroad at MIT CSAIL FutureTech lab, US, 2023-2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 04/2023 - 09/2023: Student Teaching and Research Assistant
+  * Center for Digital Technology & Management (CDTM)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
+<!-- 
 Skills
 ======
 * Skill 1
