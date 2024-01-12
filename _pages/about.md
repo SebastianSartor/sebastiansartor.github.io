@@ -23,7 +23,7 @@ You can find more about my professional background on [LinkedIn](https://www.lin
 ## UPDATES
 
  
-🎓 **Jan. 2024**: I’m back in Cambridge, MA to work on my Master Thesis on Robotics and Scaling Laws at the MIT CSAIL FutureTech lab. I love it.
+🎓 **Jan. 2024**: I’m back at the MIT CSAIL FutureTech lab in Cambridge, MA. I love it.
 
  
 
@@ -38,7 +38,7 @@ You can find more about my professional background on [LinkedIn](https://www.lin
  
 
  
-💼 **Oct. 2023**: I’m now Senior Coach for the [TechChallenge](https://academy.unternehmertum.de/programs/tech-challenge) and [Technology Entrepreneurship Lab](https://academy.unternehmertum.de/programs/technology-entrepreneurship-lab) at UnternehmerTUM. I love teaching!
+💼 **Oct. 2023**: I’m now Senior Coach for the [TechChallenge](https://academy.unternehmertum.de/programs/tech-challenge) and [Technology Entrepreneurship Lab](https://academy.unternehmertum.de/programs/technology-entrepreneurship-lab) at UnternehmerTUM for the winter term. I love teaching!
 
  
 
