@@ -16,7 +16,8 @@ Education
 
 * M.S. in Management & Technology, **Technical University of Munich**, Germany, 2024
   * Study stay abroad at **UC Berkeley**, US, 2022
-  * Research stay abroad at **MIT CSAIL FutureTech** lab, US, 2023-2024
+  * Affiliated with **MIT CSAIL FutureTech lab**, US, 2023-present
+<!--  * Research stay abroad at **MIT CSAIL FutureTech** lab, US, 2023-2024-->
 * B.S. in Mechanical Engineering & Business, **University of Bayreuth**, Germany, 2021
 
 Work experience

@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I´m Sebastian!
 
-I´m a Master student at the Technical University of Munich, majoring in Management & Technology with specializing on Computer Science and Innovation & Entrepreneurship. At the same time I‘m affiliated with the MIT CSAIL FutureTech lab to conduct my Master thesis.
+I´m a Master student at the Technical University of Munich, majoring in Management & Technology with specializing on Computer Science and Innovation & Entrepreneurship. At the same time I‘m affiliated with the MIT CSAIL FutureTech lab.
 
 As part of my past, present and future research endeavors, I aim to better understand technological progress, to make technology and their applications better and to assess the implications from technology innovation. My aspiration is to empower individuals with the ability to achieve what was once impossible, utilizing technology as a tool of enablement. I envision a world streamlined to eliminate unnecessary inefficiencies, providing people the freedom to focus on activities they find enjoyable, rather than monotonous and unfulfilling work.
 
