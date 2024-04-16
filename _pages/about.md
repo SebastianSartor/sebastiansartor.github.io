@@ -22,16 +22,11 @@ You can find more about my professional background on [LinkedIn](https://www.lin
 
 ## UPDATES
 
+  **April 2024**: New paper on Data Mesh was accepted at ECIS 2024. From seminar paper to conference paper - it's possible!
  
-🎓 **Jan. 2024**: I’m back at the MIT CSAIL FutureTech lab in Cambridge, MA. I love it.
-
- 
-
+🎓 **Jan. 2024**: I started my Master thesis. I love cutting-edge technology research.
  
 🎓 **Nov. 2023**: New paper on Data Mesh submitted for peer-review at ECIS 2024. If accepted, this will be my second peer-reviewed publication 😋
-
- 
-
  
 💡 **Oct. 2023**: I´ll run a workshop on research for students. Students should enjoy research! For further information click [here](https://www.notion.so/Research-Workshop-cea136cf8c774d01bc50115487b13f25?pvs=21).
 
