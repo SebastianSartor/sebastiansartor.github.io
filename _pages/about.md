@@ -16,13 +16,17 @@ As part of my past, present and future research endeavors, I aim to better under
 
 Previously, I pushed innovation and entrepreneurship education at UnternehmerTUM and at the Center for Digital Technology and Management (CDTM). I studied at UC Berkeley for a semester during my Masters and completed my Bachelor studies in Mechnical Engineering and Business Administration at the University of Bayreuth, Germany. During that time I co-founded and led a team building an autonomous system for an electric race car competing at Formula Student competitions.
 
-If you catch me outside of work, I’m an adventurous traveler (42 countries and counting), a casual Volleyball player and Cyclist (yes, I got three bicycles) and a passionate skier (yep, have been an instructor too). I also like to meet friends for a game night, cooking sessions, going out or day trips to nearby lakes and mountains. I´m always on the hunt for new experiences and hobbies (e.g. background movie acting, analog photography, diving, water skiing, …) and I love preparing pranks and surprises. Besides that, I love to talk about almost everything but among my favorite topics are traveling, Startups, deep talk topics on personal development, the future, human existence and philosophy, and my research of course (or anyhing technology innovation related).
+If you catch me outside of work, I’m an adventurous traveler (42 countries and counting), a casual Volleyball player and Cyclist (yes, I got three bicycles) and a passionate skier (yep, have been an instructor too). I also like to meet friends for a game night, cooking sessions, going out or day trips to nearby lakes and mountains. I´m always on the hunt for new experiences (e.g. background movie acting, analog photography, diving, water skiing, …). Besides that, I love to talk about almost everything but among my favorite topics are traveling, Startups, deep talk topics on personal development, the future, human existence and philosophy, and my research of course (or anyhing technology innovation related).
 
 You can find more about my professional background on [LinkedIn](https://www.linkedin.com/in/sebastian-sartor/), my publications on [Google Scholar](https://scholar.google.com/citations?user=qrTsOTYAAAAJ&hl=en) and travel pictures on [Instagram](https://www.instagram.com/sebastian_sartor/). You can contact me either via [LinkedIn](https://www.linkedin.com/in/sebastian-sartor/) or [email](mailto:sebastian.sartor97@gmail.com). I barely miss to answer any message and try to respond quickly😊
 
 ## UPDATES
 
-  **April 2024**: New paper on Data Mesh was accepted at ECIS 2024. From seminar paper to conference paper - it's possible!
+🎓  **May 2024**: New paper on neural scaling laws submitted for peer-review to NeurIPS.
+
+💡 **May 2024**: I attended the Berkshire Hathaway Annual Shareholder meeting in Omaha, Nebraska and was selected to ask Warren Buffett a question in front of 40.000 people.
+
+🎓  **April 2024**: New paper on Data Mesh was accepted at ECIS 2024. From seminar paper to conference paper - it's possible! ([paper](https://www.alexandria.unisg.ch/server/api/core/bitstreams/87edaae9-7dcd-4c9b-9574-188853d9f848/content))
  
 🎓 **Jan. 2024**: I started my Master thesis. I love cutting-edge technology research.
  
