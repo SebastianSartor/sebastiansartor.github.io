@@ -24,7 +24,7 @@ You can find more about my professional background on [LinkedIn](https://www.lin
 
 🎓  **May 2024**: New paper on neural scaling laws submitted for peer-review to NeurIPS.
 
-💡 **May 2024**: I attended the Berkshire Hathaway Annual Shareholder meeting in Omaha, Nebraska and was selected to ask Warren Buffett a question in front of 40.000 people.
+💡 **May 2024**: I attended the Berkshire Hathaway Annual Shareholder meeting in Omaha, Nebraska and was fortunate to ask Warren Buffett a question in front of 40.000 people.
 
 🎓  **April 2024**: New paper on Data Mesh was accepted at ECIS 2024. From seminar paper to conference paper - it's possible! ([paper](https://www.alexandria.unisg.ch/server/api/core/bitstreams/87edaae9-7dcd-4c9b-9574-188853d9f848/content))
  
