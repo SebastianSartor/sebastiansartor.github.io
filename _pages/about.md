@@ -22,7 +22,7 @@ You can find more about my professional background on [LinkedIn](https://www.lin
 
 ## UPDATES
 
-🎓  **May 2024**: New paper on neural scaling laws submitted for peer-review to NeurIPS.([preprint](https://arxiv.org/abs/2405.14005))
+🎓  **May 2024**: New paper on neural scaling laws for robotics/ embodied AI submitted for peer-review to NeurIPS.([preprint](https://arxiv.org/abs/2405.14005))
 
 💡 **May 2024**: I attended the Berkshire Hathaway Annual Shareholder meeting in Omaha, Nebraska and was fortunate to ask Warren Buffett a question in front of 40.000 people.
 
