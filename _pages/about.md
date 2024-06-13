@@ -22,7 +22,11 @@ You can find more about my professional background on [LinkedIn](https://www.lin
 
 ## UPDATES
 
-🎓  **May 2024**: New paper on neural scaling laws for robotics/ embodied AI submitted for peer-review to NeurIPS.([preprint](https://arxiv.org/abs/2405.14005))
+🎓  **June 2024**: I joined the Management Team of [Center for Digital Technology and Management (CDTM)](https://www.cdtm.de/) - let's connect, educate and empower the innovators of tomorrow!
+
+🎓  **June 2024**: My latest paper on scaling laws for embodied AI/ robotics gets quite a bit media attention on X and in AI newsletters, e.g. from [Nathan Benaich](https://nathanbenaich.substack.com/p/your-guide-to-ai-june-2024). Mission accomplished of working on something that is so relevant that other people share it 🚀
+
+🎓  **May 2024**: New paper on neural scaling laws for robotics/ embodied AI submitted for peer-review to NeurIPS. ([preprint](https://arxiv.org/abs/2405.14005))
 
 💡 **May 2024**: I attended the Berkshire Hathaway Annual Shareholder meeting in Omaha, Nebraska and was fortunate to ask Warren Buffett a question in front of 40.000 people.
 
