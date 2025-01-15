@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecting to Sebastian Sartor's Website</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="0; url=https://sites.google.com/view/sebastian-sartor/bio">
+    <script>
+        // Get the current path
+        var currentPath = window.location.pathname;
+        // Extract the last part of the path (if any) and append it to the new URL
+        var pathSegment = currentPath.split('/').pop();
+        var newUrl = "https://sites.google.com/view/sebastian-sartor/";
+        
+        // If there's a path segment and it's not index.html, append it
+        if (pathSegment && pathSegment !== "index.html") {
+            newUrl += pathSegment;
+        } else {
+            newUrl += "bio"; // Default to bio page if no specific path
+        }
+        
+        window.location.href = newUrl;
+    </script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Redirecting to Sebastian Sartor's Website...</h1>
+    <p>If you are not redirected automatically, please click <a href="https://sites.google.com/view/sebastian-sartor/bio">here</a>.</p>
+</body>
+</html> 
