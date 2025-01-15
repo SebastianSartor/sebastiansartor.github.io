@@ -11,17 +11,21 @@ redirect_from:
 
 Hi, I´m Sebastian!
 
-I´m a 1st year doctoral student at the Technical University of Munich (TUM). At the same time, I´m part of the Management Team at the Center for Digital Technology and Management (CDTM) and affiliated with MIT CSAIL FutureTech lab. 
+I´m a doctoral student at the Technical University of Munich (TUM). At the same time, I´m part of the Management Team at the Center for Digital Technology and Management (CDTM) and affiliated with MIT CSAIL FutureTech lab. 
 
-My goal is to explore the technological trends and limitations of advanced AI systems and general-purpose robots. By understanding these factors, I aim to contribute to the development of better systems, fostering a streamlined world free from unnecessary inefficiencies, and allowing people to focus on enjoyable activities rather than monotonous work. At the same time, by exploring the implications and making technological advancements transparent I hope to mitigate negative consequences and pave the way for a future where technology serves humanity meaningfully. My research focuses on compute, data, model size, neural scaling laws, autonomous agents, benchmarking, open-source AI, the economics of AI, and AI policy.
+My research is dedicated to advancing general-purpose robotics and investigating the role of scaling laws in embodied AI. Inspired by breakthroughs in robot foundation models, I believe we are approaching a tangible reality where versatile robotic assistants can play an integral role in human life. These models exhibit remarkable generalization across diverse tasks, marking a paradigm shift in robotics. Drawing on lessons from natural language processing and other AI domains, my work examines how scaling principles apply to robotics. Specifically, I explore the predictability of downstream performance across embodiments, tasks, environments, and data compositions as systems scale.
 
-Key questions driving my research include:
+Beyond technical scalability, I’m interested in broader challenges in robotics, including how can we generate internet-scale robotics data in a cost and time efficient way, how can we benchmark our general-purpose robotic systems in cost-effective, time-efficient, and comparable way and what’s the optimal balance between language, vision, and sensor data in training models for best performance. I am also interested in the societal and economic implications of general-purpose robotics: When will large-scale deployment occur, what tasks will be automated first, and how can we meet demand efficiently across industries? Ultimately, my interests span foundational models for robotics, diverse embodiments, and their societal, economic, and policy impacts.
+
+My approach emphasizes meta-level analysis over model training or algorithm design. By deriving qualitative and quantitative insights, I aim to deepen our understanding of embodied AI systems, their scaling behaviors, and their limitations.
+
+Beyond robotics, I maintain a broad interest in AI research across modalities (e.g., video, music, biology). My focus spans technical, economic, and policy dimensions. My guiding questions are somehow philosophical and practical:
 > When will we have superintelligent AI systems and general-purpose robotics in our households, similar to cars today?
 > How will our lives change with these systems?
 > What will our systems look like in 10 years, and what will they be capable of?
-> Does scaling current architectural designs lead to superintelligent systems in both virtual and physical worlds?
 > What comes after the development of superintelligent autonomous systems?
-> Will these advancements lead to a better or worse future?
+
+My ultimate goal is to contribute to the development of safe, versatile, and effective robotics systems that empower individuals, reduce inefficiencies, and enrich lives. By addressing both the technical and societal aspects of these advancements, I aim to ensure that technology serves humanity meaningfully and responsibly.
 
 Previously, I finished my Masters in Management & Technology at the Technical University of Munich (TUM), collaborated with Neil Thompson from the MIT FutureTech lab, spend a semester abroad at UC Berkeley and supported innovation and entrepreneurship education at UnternehmerTUM and at the Center for Digital Technology and Management (CDTM). During my Masters, I also published two peer-reviewed papers, two preprints and contributed to a book. I completed my Bachelor studies in Mechnical Engineering and Business Administration at the University of Bayreuth, Germany. During that time I co-founded and led a team building an autonomous system for an electric race car competing at Formula Student competitions.
 
